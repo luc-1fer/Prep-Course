@@ -1,13 +1,12 @@
-<style>
-    h1 {
+h1 {
         color:blueviolet;
     }
 
-    img{
+img{
         width: 400px;
     }
     
-     #thirdDiv{
+#thirdDiv{
         height: 500px;
         width: 600px;
         background-color:darksalmon;
@@ -15,9 +14,7 @@
         border: 10px solid blue;         
     }
 
-    #spanId{
+#spanId{
      font-size: 18px;
      margin: 50px;
     }
-
-</style>
